@@ -39,7 +39,7 @@ export default function Home() {
           <div className='text-5xl flex justify-center gap-20 py-3 text-gray-600'>
             <Link href='https://www.linkedin.com/in/moses-osho-161b20120/'><AiFillLinkedin /></Link>
             <Link href='https://github.com/itsmosho'><AiFillGithub /></Link>
-            <Link href='mailto: [mosho@live.co.uk]?subject= &body= '><AiFillMail /></Link>
+            <Link href='mailto: mosho@live.co.uk?subject= &body= '><AiFillMail /></Link>
           </div>
           <div className='mx-auto w-80 h-80 mt-20 md:h-96 md:w-96'>
             <Image alt='avatar' className='rounded-full' src={avatar} />
