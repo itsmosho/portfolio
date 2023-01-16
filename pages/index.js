@@ -56,7 +56,7 @@ export default function Home() {
             My interest in software development started back in 2010. <br /> Modding online games using Cheat Engine
             which gave me a real taste of developing at an early age - and to me it was just fun!
             <br/>
-            Fast-forward to today, my quest for knowledge has led me to learning a plethora skills: <br /> 
+            Fast-forward to today, my quest for knowledge has led me to learning a plethora of skills: <br /> 
             music production, sound engineering and marketing as well as software development.
             <br/>
             To further grow as a developer, I attended and graduated from Makers Academy's software development bootcamp
