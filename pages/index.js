@@ -79,14 +79,14 @@ export default function Home() {
             <h3 className='text-teal-500 text-center text-3xl py-1'>Skills</h3>
             <p className='text-center text-md py-2 leading-8 text-gray-800 dark:text-gray-200'>Some of my skills and technologies include: </p>
             <div className='text-center columns-2 text-md py-2 leading-8 text-gray-800 dark:text-gray-200'>
-            JavacScript<br/>
+            JavaScript<br/>
             Ruby<br/>
             React<br/>
             HTML<br/>
             CSS<br/>
             React Native<br/>
             Node.js<br/>
-            Talwind<br/>
+            Tailwind<br/>
             Next.js<br/>
             Express.js<br/>
             MongoDB<br/>
